@@ -6,7 +6,7 @@ Easy two step authentification in PHP.
 Uses https://github.com/PHPGangsta/GoogleAuthenticator
 
 
-Example made for a minecraft server, can be easily changed.
+Example made for a minecraft server, but can be easily changed.
 
 
 
