@@ -1,0 +1,23 @@
+[14:39:54] [Server thread/INFO]: Starting minecraft server version 1.8
+[14:39:54] [Server thread/INFO]: Loading properties
+[14:39:54] [Server thread/INFO]: Default game type: SURVIVAL
+[14:39:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-da32fe1-df0b4c1 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[14:39:55] [Server thread/INFO]: Debug logging is disabled
+[14:39:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:39:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:39:55] [Server thread/INFO]: Generating keypair
+[14:39:55] [Server thread/INFO]: Starting Minecraft server on 188.138.106.118:25565
+[14:39:56] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:39:56] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[14:39:56] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[14:39:56] [Server thread/INFO]: [PermissionsEx] PermissionEx plugin initialized.
+[14:39:56] [Server thread/INFO]: [executePHP] Loading executePHP v1.1
+[14:39:56] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.1
+[14:39:56] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[14:39:56] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.11.0-RC-sMD5NET-b739
+[14:39:56] [Server thread/INFO]: [iConomy] Loading iConomy v6.0.9b
+[14:39:56] [Server thread/INFO]: [Websend] Loading Websend v1.5.1
+[14:39:56] [Server thread/INFO]: [BlockSpotBukkit3] Loading BlockSpotBukkit3 v0.00.03.0
+[14:39:56] [Server thread/INFO]: [BlockSpotBukkit1] Loading BlockSpotBukkit1 v0.00.02.1
+[14:39:56] [Server thread/INFO]: [Sync] Loading Sync v1.0.3
+[14:39:56] [Server thread/INFO]: [Vault] Loading Vault v1.5.2-b33....
